@@ -649,8 +649,9 @@ main{
     left: 3%;
     font-size: 22px;
     font-weight: 600;
+    text-shadow: 3px 3px 0 #444;
   }
-  
+
   .name{
     font-size: 40px;
   }
@@ -752,14 +753,6 @@ main{
   .footer-box{
     padding-top: 4vh;
   }
-
-/* ボタン */
-.page-top {
-  bottom: 15px;  
-  right: 20px;   
-  width: 40px;
-  height: 40px;  
- }
 
  /* ハンバーガーメニュー */
 
