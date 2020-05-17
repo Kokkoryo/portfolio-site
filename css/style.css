@@ -645,8 +645,6 @@ main{
  @media screen and (max-width: 480px){ 
 
   .h-center{
-    top: 20%;
-    left: 3%;
     font-size: 22px;
     font-weight: 600;
     text-shadow: 3px 3px 0 #444;
